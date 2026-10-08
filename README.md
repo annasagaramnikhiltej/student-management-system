@@ -4,7 +4,7 @@ A web-based Student Management System built using Python, Flask, SQLite, HTML an
 
 ## 🚀 Live Demo
 
-👉 https://student-management-system-y1lz.onrender.com
+👉 https://student-management-system-yllz.onrender.com
 
 CRUD web application for managing student records.
 
